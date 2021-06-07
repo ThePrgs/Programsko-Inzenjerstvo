@@ -1,0 +1,10 @@
+C:\Users\Prgs\source\repos\Vjezba3\bin\Debug\Vjezba3.exe.config
+C:\Users\Prgs\source\repos\Vjezba3\bin\Debug\Vjezba3.exe
+C:\Users\Prgs\source\repos\Vjezba3\bin\Debug\Vjezba3.pdb
+C:\Users\Prgs\source\repos\Vjezba3\obj\Debug\Vjezba3.csprojAssemblyReference.cache
+C:\Users\Prgs\source\repos\Vjezba3\obj\Debug\Vjezba3.Form1.resources
+C:\Users\Prgs\source\repos\Vjezba3\obj\Debug\Vjezba3.Properties.Resources.resources
+C:\Users\Prgs\source\repos\Vjezba3\obj\Debug\Vjezba3.csproj.GenerateResource.cache
+C:\Users\Prgs\source\repos\Vjezba3\obj\Debug\Vjezba3.csproj.CoreCompileInputs.cache
+C:\Users\Prgs\source\repos\Vjezba3\obj\Debug\Vjezba3.exe
+C:\Users\Prgs\source\repos\Vjezba3\obj\Debug\Vjezba3.pdb
