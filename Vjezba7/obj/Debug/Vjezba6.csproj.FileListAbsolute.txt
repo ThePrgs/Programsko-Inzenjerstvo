@@ -1,0 +1,11 @@
+C:\Users\Prgs\source\repos\Vjezba6\bin\Debug\Vjezba6.exe.config
+C:\Users\Prgs\source\repos\Vjezba6\bin\Debug\Vjezba6.exe
+C:\Users\Prgs\source\repos\Vjezba6\bin\Debug\Vjezba6.pdb
+C:\Users\Prgs\source\repos\Vjezba6\obj\Debug\Vjezba6.csprojAssemblyReference.cache
+C:\Users\Prgs\source\repos\Vjezba6\obj\Debug\Vjezba6.Form1.resources
+C:\Users\Prgs\source\repos\Vjezba6\obj\Debug\Vjezba6.Properties.Resources.resources
+C:\Users\Prgs\source\repos\Vjezba6\obj\Debug\Vjezba6.csproj.GenerateResource.cache
+C:\Users\Prgs\source\repos\Vjezba6\obj\Debug\Vjezba6.csproj.CoreCompileInputs.cache
+C:\Users\Prgs\source\repos\Vjezba6\obj\Debug\Vjezba6.exe
+C:\Users\Prgs\source\repos\Vjezba6\obj\Debug\Vjezba6.pdb
+C:\Users\Prgs\source\repos\Vjezba6\obj\Debug\Vjezba6.PrevoditeljForma.resources
